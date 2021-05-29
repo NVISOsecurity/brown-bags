@@ -1,5 +1,4 @@
-# This repository is accompanying the brown bag session of Jean-Francois Maes on the 8th of April 2021
-
+# This repository is accompanying the brown bag session of Jean-Francois Maes about defeating EDRs using Dynamic Invocation
 This code is combining work from:
 * EthicalChaos
 * TheWover
